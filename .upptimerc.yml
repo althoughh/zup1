@@ -4,12 +4,12 @@ repo: zup1 # The name of this repository
 
 sites:
   - name: zinc
-    url: https://www.zincwork.com
+    url: https://zincwork.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /zip1
+  baseUrl: /zup1
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   navbar:
     - title: Status
