@@ -1,8 +1,8 @@
 [
   {
     "name": "zinc",
-    "url": "https://www.zincwork.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.zincwork.com.ico",
+    "url": "https://zincwork.com",
+    "icon": "https://icons.duckduckgo.com/ip3/zincwork.com.ico",
     "slug": "zinc",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 644,
-    "timeWeek": 644,
-    "timeMonth": 644,
-    "timeYear": 644,
+    "time": 444,
+    "timeDay": 444,
+    "timeWeek": 444,
+    "timeMonth": 444,
+    "timeYear": 444,
     "dailyMinutesDown": {}
   }
 ]
